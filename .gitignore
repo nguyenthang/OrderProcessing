@@ -2,3 +2,5 @@
 .idea
 OrderProcessing.iml
 target
+src/main/java/com/order/dao/exception/
+src/test/results/
